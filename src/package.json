@@ -1,0 +1,16 @@
+{
+  "name": "app02_04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "mustache": "^2.3.0",
+    "underscore": "^1.9.0"
+  }
+}
